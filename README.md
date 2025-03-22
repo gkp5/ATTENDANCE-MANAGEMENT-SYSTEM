@@ -40,7 +40,7 @@ The primary objectives of this system are:
 
 | Component      | Details                    |
 |---------------|----------------------------|
-| Language      | C                           |
+| Language      | C++                         |
 | Data Storage  | Text File (`data.txt`)      |
 | User Interface | Console-Based (CLI)        |
 | Authentication | Username & Password        |
